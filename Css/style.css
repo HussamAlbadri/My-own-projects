@@ -1,0 +1,36 @@
+body {
+    background-color: darkslategray;
+}
+
+header {
+    text-align: center;
+    font-size: 30px;
+}
+
+#container {
+    background-color: beige;
+    border: 5px solid #F5E4C3;
+    height: 270px;
+    width: 550px;
+    margin: auto;
+    text-align: center;
+}
+
+p {
+    color: black;
+    font-size: 25px;
+}
+
+#userInput {
+    width: 100px;
+    margin: 25px auto;
+}
+
+#btn {
+    margin: 25px auto auto 5px;
+}
+
+footer {
+    text-align: center;
+    font-size: 50px;
+}
